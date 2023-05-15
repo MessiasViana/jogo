@@ -1,5 +1,5 @@
 
-public class Guerreiro extends Jogador {
+public class Guerreiro extends Jogador implements Jogavel {
 	public Guerreiro() {
 		super();
 	}
